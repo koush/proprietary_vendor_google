@@ -11,7 +11,7 @@
         summary: "March 7, 2011 for Android 2.3.3 (CyanogenMod 7 Nightly 11+, RC2, RC3, 7.0.0 Stable)",
         device: 
         [
-            blade",
+            "blade",
             "bravo",
             "bravoc",
             "buzz",
@@ -49,7 +49,7 @@
         summary: "January 20, 2011 for Android 2.3.2 (CyanogenMod Nightly <11, RC1)",
         device: 
         [
-            blade",
+            "blade",
             "bravo",
             "bravoc",
             "buzz",
