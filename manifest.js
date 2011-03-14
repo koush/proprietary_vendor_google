@@ -1,9 +1,8 @@
 {
     version: 1,
-    homepage: "http://goo-inside.me/gapps/",
+    homepage: "http://goo-inside.me/gapps/#versions",
     donate: "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KNWA22ZGW32VS",
     
-    // Your list of ROMs
     roms:
     [
     {
