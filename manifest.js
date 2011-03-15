@@ -384,7 +384,47 @@
 			"dream_sapphire",
 			"one"
         ],
+        url: "http://goo-inside.me/gapps/gapps-mdpi-tiny-20101020-signed.zip"
+    },
+	{
+        name: "(EOL) Google Apps 20100930 MDPI-TINY",
+        summary: "September 30, 2010 for Android 2.2 MDPI-TINY devices",
+        device: 
+        [
+			"dream_sapphire",
+			"one"
+        ],
         url: "http://goo-inside.me/gapps/gapps-mdpi-tiny-20100930-signed.zip"
+    },
+	{
+        name: "(EOL) Google Apps 20100926 MDPI-TINY",
+        summary: "September 26, 2010 for Android 2.2 MDPI-TINY devices",
+        device: 
+        [
+			"dream_sapphire",
+			"one"
+        ],
+        url: "http://goo-inside.me/gapps/gapps-mdpi-tiny-20100926-signed.zip"
+    },
+	{
+        name: "(EOL) Google Apps 20100917 MDPI-TINY",
+        summary: "September 17, 2010 for Android 2.2 MDPI-TINY devices",
+        device: 
+        [
+			"dream_sapphire",
+			"one"
+        ],
+        url: "http://goo-inside.me/gapps/gapps-mdpi-tiny-20100917-signed.zip"
+    },
+	{
+        name: "(EOL) Google Apps 20100816 MDPI-TINY",
+        summary: "August 16, 2010 for Android 2.2 MDPI-TINY devices",
+        device: 
+        [
+			"dream_sapphire",
+			"one"
+        ],
+        url: "http://goo-inside.me/gapps/gapps-mdpi-tiny-20100816-signed.zip"
     },
 	// CyanogenMod 5
 	{
