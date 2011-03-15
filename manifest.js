@@ -300,7 +300,81 @@
         ],
         url: "http://goo-inside.me/gapps/gapps-mdpi-20110301-signed.zip"
     },
-	
+	{
+        name: "(EOL) Google Apps 20101020 MDPI",
+        summary: "October 20, 2010 for Android 2.2 MDPI devices",
+        device: 
+        [
+			"buzz",
+            "espresso",
+            "hero",
+            "heroc",
+            "legend",
+            "liberty",
+            "z71"
+        ],
+        url: "http://goo-inside.me/gapps/gapps-mdpi-20101020-signed.zip"
+    },
+	{
+        name: "(EOL) Google Apps 20100930 MDPI",
+        summary: "September 30, 2010 for Android 2.2 MDPI devices",
+        device: 
+        [
+			"buzz",
+            "espresso",
+            "hero",
+            "heroc",
+            "legend",
+            "liberty",
+            "z71"
+        ],
+        url: "http://goo-inside.me/gapps/gapps-mdpi-20100930-signed.zip"
+    },
+	{
+        name: "(EOL) Google Apps 20100926 MDPI",
+        summary: "September 26, 2010 for Android 2.2 MDPI devices",
+        device: 
+        [
+			"buzz",
+            "espresso",
+            "hero",
+            "heroc",
+            "legend",
+            "liberty",
+            "z71"
+        ],
+        url: "http://goo-inside.me/gapps/gapps-mdpi-20100926-signed.zip"
+    },
+	{
+        name: "(EOL) Google Apps 20100917 MDPI",
+        summary: "September 17, 2010 for Android 2.2 MDPI devices",
+        device: 
+        [
+			"buzz",
+            "espresso",
+            "hero",
+            "heroc",
+            "legend",
+            "liberty",
+            "z71"
+        ],
+        url: "http://goo-inside.me/gapps/gapps-mdpi-20100917-signed.zip"
+    },
+	{
+        name: "(EOL) Google Apps 20100816 MDPI",
+        summary: "August 16, 2010 for Android 2.2 MDPI devices",
+        device: 
+        [
+			"buzz",
+            "espresso",
+            "hero",
+            "heroc",
+            "legend",
+            "liberty",
+            "z71"
+        ],
+        url: "http://goo-inside.me/gapps/gapps-mdpi-20100816-signed.zip"
+    },
 	// MDPI-TINY
 	{
         name: "Google Apps 20101020 MDPI-TINY",
