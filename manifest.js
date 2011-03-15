@@ -171,7 +171,147 @@
         url: "http://goo-inside.me/gapps/gapps-gb-tegra-20110113-signed.zip"
     },
 	// CyanogenMod 6
+	// HDPI
+	{
+        name: "Google Apps 20101114 HDPI",
+        summary: "November 14, 2010 for Android 2.2 HDPI devices",
+        device: 
+        [
+			"ace",
+			"bravo",
+			"bravoc",
+			"inc",
+			"passion",
+			"sholes",
+			"supersonic",
+			"vision"
+        ],
+        url: "http://goo-inside.me/gapps/gapps-mdpi-20110301-signed.zip"
+    },
+	{
+        name: "(EOL) Google Apps 20101025 HDPI",
+        summary: "October 25, 2010 for Android 2.2 HDPI devices",
+        device: 
+        [
+			"ace",
+			"bravo",
+			"bravoc",
+			"inc",
+			"passion",
+			"sholes",
+			"supersonic",
+			"vision"
+        ],
+        url: "http://goo-inside.me/gapps/gapps-hdpi-20101025-signed.zip"
+    },
+	{
+        name: "(EOL) Google Apps 20101020 HDPI",
+        summary: "October 20, 2010 for Android 2.2 HDPI devices",
+        device: 
+        [
+			"ace",
+			"bravo",
+			"bravoc",
+			"inc",
+			"passion",
+			"sholes",
+			"supersonic",
+			"vision"
+        ],
+        url: "http://goo-inside.me/gapps/gapps-hdpi-20101020-signed.zip"
+    },
+	{
+        name: "(EOL) Google Apps 20100930 HDPI",
+        summary: "September 30, 2010 for Android 2.2 HDPI devices",
+        device: 
+        [
+			"ace",
+			"bravo",
+			"bravoc",
+			"inc",
+			"passion",
+			"sholes",
+			"supersonic",
+			"vision"
+        ],
+        url: "http://goo-inside.me/gapps/gapps-hdpi-20100930-signed.zip"
+    },
+	{
+        name: "(EOL) Google Apps 20100926 HDPI",
+        summary: "September 26, 2010 for Android 2.2 HDPI devices",
+        device: 
+        [
+			"ace",
+			"bravo",
+			"bravoc",
+			"inc",
+			"passion",
+			"sholes",
+			"supersonic",
+			"vision"
+        ],
+        url: "http://goo-inside.me/gapps/gapps-hdpi-20100926-signed.zip"
+    },
+	{
+        name: "(EOL) Google Apps 20100917 HDPI",
+        summary: "September 17, 2010 for Android 2.2 HDPI devices",
+        device: 
+        [
+			"ace",
+			"bravo",
+			"bravoc",
+			"inc",
+			"passion",
+			"sholes",
+			"supersonic",
+			"vision"
+        ],
+        url: "http://goo-inside.me/gapps/gapps-hdpi-20100917-signed.zip"
+    },
+	{
+        name: "(EOL) Google Apps 20100817 HDPI",
+        summary: "August 17, 2010 for Android 2.2 HDPI devices",
+        device: 
+        [
+			"ace",
+			"bravo",
+			"bravoc",
+			"inc",
+			"passion",
+			"sholes",
+			"supersonic",
+			"vision"
+        ],
+        url: "http://goo-inside.me/gapps/gapps-hdpi-20100817-signed.zip"
+    },
+	// MDPI
+	{
+        name: "Google Apps 20110301 MDPI",
+        summary: "March 1, 2011 for Android 2.2 MDPI devices",
+        device: 
+        [
+			"buzz",
+            "espresso",
+            "hero",
+            "heroc",
+            "legend",
+            "liberty",
+            "z71"
+        ],
+        url: "http://goo-inside.me/gapps/gapps-mdpi-20110301-signed.zip"
+    },
 	
+	// MDPI-TINY
+	{
+        name: "Google Apps 20101020 MDPI-TINY",
+        summary: "October 20, 2010 for Android 2.2 MDPI-TINY devices",
+        device: 
+        [
+			"dream_sapphire",
+			"one"
+        ],
+        url: "http://goo-inside.me/gapps/gapps-mdpi-tiny-20100930-signed.zip"
+    },
 	// CyanogenMod 5
 	{
         name: "Google Apps EPE54B HDPI",
@@ -195,6 +335,6 @@
         summary: "For Android 1.6 (CyanogenMod 4)",
         device: "dream_sapphire",
         url: "http://goo-inside.me/gapps/DRC83_base_defanged.zip"
-    },
+    }
     ]
 }
