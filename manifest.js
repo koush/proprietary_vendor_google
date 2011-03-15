@@ -169,11 +169,26 @@
 	// CyanogenMod 6
 	
 	// CyanogenMod 5
-	
+	{
+        name: "Google Apps EPE54B",
+        summary: "For Android 2.1 (CyanogenMod 5)",
+        device: 
+        [
+            "passion",
+            "sholes"
+        ],
+        url: "http://goo-inside.me/gapps/gapps-passion-EPE54B-signed.zip"
+    },
+	{
+        name: "Google Apps ERE36B",
+        summary: "MDPI-TINY for Android 2.1 (CyanogenMod 5)",
+        device: "dream_sapphire",
+        url: "http://goo-inside.me/gapps/gapps-ds-ERE36B-signed.zip"
+    },
 	// CyanogenMod 4
 	{
-        name: "Google Apps DRC83",
-        summary: "For Android 1.6 (CyanogenMod 4)",
+        name: "Google Apps DRC83 (MDPI-TINY)",
+        summary: "MDPI-TINY for Android 1.6 (CyanogenMod 4)",
         device: "dream_sapphire",
         url: "http://goo-inside.me/gapps/DRC83_base_defanged.zip"
     },
