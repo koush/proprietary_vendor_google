@@ -5,7 +5,7 @@
     
     roms:
     [
-	// CyanogenMod 7
+    // CyanogenMod 7
     {
         name: "(RECOMMENDED) Google Apps 20110307 Universal",
         summary: "March 7, 2011 for Android 2.3.3 (CyanogenMod 7 Nightly 11+, RC2-3, Stable)",
@@ -182,8 +182,8 @@
         device: "harmony",
         url: "http://goo-inside.me/gapps/gapps-gb-tegra-20110113-signed.zip"
     },
-	// CyanogenMod 6
-	// HDPI
+    // CyanogenMod 6
+    // HDPI
 	{
         name: "Google Apps 20101114 HDPI",
         summary: "November 14, 2010 for Android 2.2 HDPI devices",
@@ -310,7 +310,7 @@
         ],
         url: "http://goo-inside.me/gapps/gapps-hdpi-20100817-signed.zip"
     },
-	// MDPI
+    // MDPI
 	{
         name: "Google Apps 20110301 MDPI",
         summary: "March 1, 2011 for Android 2.2 MDPI devices",
@@ -413,7 +413,7 @@
         ],
         url: "http://goo-inside.me/gapps/gapps-mdpi-20100816-signed.zip"
     },
-	// MDPI-TINY
+    // MDPI-TINY
 	{
         name: "Google Apps 20101020 MDPI-TINY",
         summary: "October 20, 2010 for Android 2.2 MDPI-TINY devices",
@@ -474,7 +474,7 @@
         ],
         url: "http://goo-inside.me/gapps/gapps-mdpi-tiny-20100816-signed.zip"
     },
-	// CyanogenMod 5
+    // CyanogenMod 5
 	{
         name: "Google Apps EPE54B HDPI",
         summary: "For Android 2.1 (CyanogenMod 5)",
@@ -495,7 +495,7 @@
         device: "dream_sapphire",
         url: "http://goo-inside.me/gapps/gapps-ds-ERE36B-signed.zip"
     },
-	// CyanogenMod 4
+    // CyanogenMod 4
 	{
         name: "Google Apps DRC83 MDPI-TINY",
         summary: "For Android 1.6 (CyanogenMod 4)",
