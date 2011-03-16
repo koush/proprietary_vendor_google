@@ -11,40 +11,7 @@
         summary: "March 7, 2011 for Android 2.3.3 (CyanogenMod 7 Nightly 11+, RC2-3, Stable)",
         product: "gingerbread",
         incremental: 20110307,
-        device: 
-        [
-            "ace",
-            "blade",
-            "bravo",
-            "bravoc",
-            "buzz",
-            "click",
-            "crespo",
-            "desirec",
-            "dream",
-            "encore",
-            "epic",
-            "espresso",
-            "glacier",
-            "harmony",
-            "hero",
-            "heroc",
-            "inc",
-            "legend",
-            "leo",
-            "liberty",
-            "one",
-            "passion",
-            "sapphire",
-            "sholes",
-            "streak",
-            "supersonic",
-            "vega",
-            "vibrant",
-            "vision",
-            "z71",
-            "zero"
-        ],
+        device: "all",
         url: "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip"
     },
     {
@@ -52,40 +19,7 @@
         summary: "January 20, 2011 for Android 2.3.2 (CyanogenMod 7 Nightly <11, RC1)",
         product: "gingerbread",
         incremental: 20110120,
-        device: 
-        [
-            "ace",
-            "blade",
-            "bravo",
-            "bravoc",
-            "buzz",
-            "click",
-            "crespo",
-            "desirec",
-            "dream",
-            "encore",
-            "epic",
-            "espresso",
-            "glacier",
-            "harmony",
-            "hero",
-            "heroc",
-            "inc",
-            "legend",
-            "leo",
-            "liberty",
-            "one",
-            "passion",
-            "sapphire",
-            "sholes",
-            "streak",
-            "supersonic",
-            "vega",
-            "vibrant",
-            "vision",
-            "z71",
-            "zero"
-        ],
+        device: "all",
         url: "http://goo-inside.me/gapps/gapps-gb-20110120-signed.zip"
     },
     {
@@ -101,40 +35,7 @@
         summary: "January 15, 2011 for Android 2.3.2",
         product: "gingerbread",
         incremental: 20110115,
-        device: 
-        [
-            "ace",
-            "blade",
-            "bravo",
-            "bravoc",
-            "buzz",
-            "click",
-            "crespo",
-            "desirec",
-            "dream",
-            "encore",
-            "epic",
-            "espresso",
-            "glacier",
-            "harmony",
-            "hero",
-            "heroc",
-            "inc",
-            "legend",
-            "leo",
-            "liberty",
-            "one",
-            "passion",
-            "sapphire",
-            "sholes",
-            "streak",
-            "supersonic",
-            "vega",
-            "vibrant",
-            "vision",
-            "z71",
-            "zero"
-        ],
+        device: "all",
         url: "http://goo-inside.me/gapps/gapps-gb-20110115-signed.zip"
     },
     {
@@ -142,40 +43,7 @@
         summary: "January 14, 2011 for Android 2.3.2",
         product: "gingerbread",
         incremental: 20110114,
-        device: 
-        [
-            "ace",
-            "blade",
-            "bravo",
-            "bravoc",
-            "buzz",
-            "click",
-            "crespo",
-            "desirec",
-            "dream",
-            "encore",
-            "epic",
-            "espresso",
-            "glacier",
-            "harmony",
-            "hero",
-            "heroc",
-            "inc",
-            "legend",
-            "leo",
-            "liberty",
-            "one",
-            "passion",
-            "sapphire",
-            "sholes",
-            "streak",
-            "supersonic",
-            "vega",
-            "vibrant",
-            "vision",
-            "z71",
-            "zero"
-        ],
+        device: "all",
         url: "http://goo-inside.me/gapps/gapps-gb-20110114-signed.zip"
     },
 	{
@@ -426,6 +294,7 @@
         device: 
         [
             "dream",
+            "magic",
             "sapphire",
             "one"
         ],
@@ -439,6 +308,7 @@
         device: 
         [
             "dream",
+            "magic",
             "sapphire",
             "one"
         ],
@@ -452,6 +322,7 @@
         device: 
         [
             "dream",
+            "magic",
             "sapphire",
             "one"
         ],
@@ -465,6 +336,7 @@
         device: 
         [
             "dream",
+            "magic",
             "sapphire",
             "one"
         ],
@@ -478,6 +350,7 @@
         device: 
         [
             "dream",
+            "magic",
             "sapphire",
             "one"
         ],
@@ -504,6 +377,7 @@
         device: 
         [
             "dream",
+            "magic",
             "sapphire"
         ],
         url: "http://goo-inside.me/gapps/gapps-ds-ERE36B-signed.zip"
@@ -517,6 +391,7 @@
         device: 
         [
             "dream",
+            "magic",
             "sapphire"
         ],
         url: "http://goo-inside.me/gapps/DRC83_base_defanged.zip"
