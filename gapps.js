@@ -5,36 +5,6 @@
     manifest: "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
     roms:
     {
-        ace: true,
-        blade: true,
-        bravo: true,
-        bravoc: true,
-        buzz: true,
-        click: true,
-        crespo: true,
-        desirec: true,
-        dream: true,
-        encore: true,
-        epic: true,
-        espresso: true,
-        glacier: true,
-        harmony: true,
-        hero: true,
-        heroc: true,
-        inc: true,
-        legend: true,
-        leo: true,
-        liberty: true,
-        one: true,
-        passion: true,
-        sapphire: true,
-        sholes: true,
-        streak: true,
-        supersonic: true,
-        vega: true,
-        vibrant: true,
-        vision: true,
-        z71: true,
-        zero: true
+        all: true
     }
 }
