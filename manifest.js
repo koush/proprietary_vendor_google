@@ -21,7 +21,7 @@
             "click",
             "crespo",
             "desirec",
-            "dream_sapphire",
+            "dream",
             "encore",
             "epic",
             "espresso",
@@ -35,6 +35,7 @@
             "liberty",
             "one",
             "passion",
+            "sapphire",
             "sholes",
             "streak",
             "supersonic",
@@ -61,7 +62,7 @@
             "click",
             "crespo",
             "desirec",
-            "dream_sapphire",
+            "dream",
             "encore",
             "epic",
             "espresso",
@@ -75,6 +76,7 @@
             "liberty",
             "one",
             "passion",
+            "sapphire",
             "sholes",
             "streak",
             "supersonic",
@@ -109,7 +111,7 @@
             "click",
             "crespo",
             "desirec",
-            "dream_sapphire",
+            "dream",
             "encore",
             "epic",
             "espresso",
@@ -123,6 +125,7 @@
             "liberty",
             "one",
             "passion",
+            "sapphire",
             "sholes",
             "streak",
             "supersonic",
@@ -149,7 +152,7 @@
             "click",
             "crespo",
             "desirec",
-            "dream_sapphire",
+            "dream",
             "encore",
             "epic",
             "espresso",
@@ -163,6 +166,7 @@
             "liberty",
             "one",
             "passion",
+            "sapphire",
             "sholes",
             "streak",
             "supersonic",
@@ -421,7 +425,8 @@
         incremental: 20101020,
         device: 
         [
-            "dream_sapphire",
+            "dream",
+            "sapphire",
             "one"
         ],
         url: "http://goo-inside.me/gapps/gapps-mdpi-tiny-20101020-signed.zip"
@@ -433,7 +438,8 @@
         incremental: 20100930,
         device: 
         [
-            "dream_sapphire",
+            "dream",
+            "sapphire",
             "one"
         ],
         url: "http://goo-inside.me/gapps/gapps-mdpi-tiny-20100930-signed.zip"
@@ -445,7 +451,8 @@
         incremental: 20100926,
         device: 
         [
-            "dream_sapphire",
+            "dream",
+            "sapphire",
             "one"
         ],
         url: "http://goo-inside.me/gapps/gapps-mdpi-tiny-20100926-signed.zip"
@@ -457,7 +464,8 @@
         incremental: 20100917,
         device: 
         [
-            "dream_sapphire",
+            "dream",
+            "sapphire",
             "one"
         ],
         url: "http://goo-inside.me/gapps/gapps-mdpi-tiny-20100917-signed.zip"
@@ -469,7 +477,8 @@
         incremental: 20100816,
         device: 
         [
-            "dream_sapphire",
+            "dream",
+            "sapphire",
             "one"
         ],
         url: "http://goo-inside.me/gapps/gapps-mdpi-tiny-20100816-signed.zip"
@@ -492,7 +501,11 @@
         summary: "For Android 2.1 (CyanogenMod 5)",
         product: "eclairtiny",
         incremental: 0001,
-        device: "dream_sapphire",
+        device: 
+        [
+            "dream",
+            "sapphire"
+        ],
         url: "http://goo-inside.me/gapps/gapps-ds-ERE36B-signed.zip"
     },
     // CyanogenMod 4
@@ -501,7 +514,11 @@
         summary: "For Android 1.6 (CyanogenMod 4)",
         product: "donuttiny",
         incremental: 0001,
-        device: "dream_sapphire",
+        device: 
+        [
+            "dream",
+            "sapphire"
+        ],
         url: "http://goo-inside.me/gapps/DRC83_base_defanged.zip"
     }
     ]
