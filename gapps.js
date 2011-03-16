@@ -5,6 +5,7 @@
     manifest: "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
     roms:
     {
+        ace: true,
         blade: true,
         bravo: true,
         bravoc: true,
