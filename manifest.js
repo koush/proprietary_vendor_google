@@ -57,7 +57,7 @@
         "summary": "November 14, 2010 for Android 2.2 HDPI devices",
         "product": "froyohdpi",
         "incremental": "20101114",
-        "device": 
+        "devices": 
         [
             "ace",
             "bravo",
@@ -75,7 +75,7 @@
         "summary": "No longer supported. October 25, 2010 for Android 2.2 HDPI devices",
         "product": "froyohdpi",
         "incremental": "20101025",
-        "device": 
+        "devices": 
         [
             "ace",
             "bravo",
@@ -93,7 +93,7 @@
         "summary": "No longer supported. October 20, 2010 for Android 2.2 HDPI devices",
         "product": "froyohdpi",
         "incremental": "20101020",
-        "device": 
+        "devices": 
         [
             "ace",
             "bravo",
@@ -111,7 +111,7 @@
         "summary": "No longer supported. September 30, 2010 for Android 2.2 HDPI devices",
         "product": "froyohdpi",
         "incremental": "20100930",
-        "device": 
+        "devices": 
         [
             "ace",
             "bravo",
@@ -129,7 +129,7 @@
         "summary": "No longer supported. September 26, 2010 for Android 2.2 HDPI devices",
         "product": "froyohdpi",
         "incremental": "20100926",
-        "device": 
+        "devices": 
         [
             "ace",
             "bravo",
@@ -147,7 +147,7 @@
         "summary": "No longer supported. September 17, 2010 for Android 2.2 HDPI devices",
         "product": "froyohdpi",
         "incremental": "20100917",
-        "device": 
+        "devices": 
         [
             "ace",
             "bravo",
@@ -165,7 +165,7 @@
         "summary": "No longer supported. August 17, 2010 for Android 2.2 HDPI devices",
         "product": "froyohdpi",
         "incremental": "20100817",
-        "device": 
+        "devices": 
         [
             "ace",
             "bravo",
@@ -183,7 +183,7 @@
         "summary": "March 1, 2011 for Android 2.2 MDPI devices",
         "product": "froyomdpi",
         "incremental": "20110301",
-        "device": 
+        "devices": 
         [
             "buzz",
             "espresso",
@@ -200,7 +200,7 @@
         "summary": "No longer supported. October 20, 2010 for Android 2.2 MDPI devices",
         "product": "froyomdpi",
         "incremental": "20101020",
-        "device": 
+        "devices": 
         [
             "buzz",
             "espresso",
@@ -217,7 +217,7 @@
         "summary": "No longer supported. September 30, 2010 for Android 2.2 MDPI devices",
         "product": "froyomdpi",
         "incremental": "20100930",
-        "device": 
+        "devices": 
         [
             "buzz",
             "espresso",
@@ -234,7 +234,7 @@
         "summary": "No longer supported. September 26, 2010 for Android 2.2 MDPI devices",
         "product": "froyomdpi",
         "incremental": "20100926",
-        "device": 
+        "devices": 
         [
             "buzz",
             "espresso",
@@ -251,7 +251,7 @@
         "summary": "No longer supported. September 17, 2010 for Android 2.2 MDPI devices",
         "product": "froyomdpi",
         "incremental": "20100917",
-        "device": 
+        "devices": 
         [
             "buzz",
             "espresso",
@@ -268,7 +268,7 @@
         "summary": "No longer supported. August 16, 2010 for Android 2.2 MDPI devices",
         "product": "froyomdpi",
         "incremental": "20100816",
-        "device": 
+        "devices": 
         [
             "buzz",
             "espresso",
@@ -285,7 +285,7 @@
         "summary": "October 20, 2010 for Android 2.2 MDPI-TINY devices",
         "product": "froyotiny",
         "incremental": "20101020",
-        "device": 
+        "devices": 
         [
             "dream",
             "magic",
@@ -299,7 +299,7 @@
         "summary": "No longer supported. September 30, 2010 for Android 2.2 MDPI-TINY devices",
         "product": "froyotiny",
         "incremental": "20100930",
-        "device": 
+        "devices": 
         [
             "dream",
             "magic",
@@ -313,7 +313,7 @@
         "summary": "No longer supported. September 26, 2010 for Android 2.2 MDPI-TINY devices",
         "product": "froyotiny",
         "incremental": "20100926",
-        "device": 
+        "devices": 
         [
             "dream",
             "magic",
@@ -327,7 +327,7 @@
         "summary": "No longer supported. September 17, 2010 for Android 2.2 MDPI-TINY devices",
         "product": "froyotiny",
         "incremental": "20100917",
-        "device": 
+        "devices": 
         [
             "dream",
             "magic",
@@ -341,7 +341,7 @@
         "summary": "No longer supported. August 16, 2010 for Android 2.2 MDPI-TINY devices",
         "product": "froyotiny",
         "incremental": "20100816",
-        "device": 
+        "devices": 
         [
             "dream",
             "magic",
@@ -355,7 +355,7 @@
         "summary": "For Android 2.1 (CyanogenMod 5)",
         "product": "eclairhdpi",
         "incremental": "0001",
-        "device": 
+        "devices": 
         [
             "passion",
             "sholes"
@@ -367,7 +367,7 @@
         "summary": "For Android 2.1 (CyanogenMod 5)",
         "product": "eclairtiny",
         "incremental": "0001",
-        "device": 
+        "devices": 
         [
             "dream",
             "magic",
@@ -380,7 +380,7 @@
         "summary": "For Android 1.6 (CyanogenMod 4)",
         "product": "donuttiny",
         "incremental": "0001",
-        "device": 
+        "devices": 
         [
             "dream",
             "magic",
