@@ -414,7 +414,7 @@
         "url": "http://goo-inside.me/gapps/gapps-ds-ERE36B-signed.zip"
     },
 	{
-        "name": "Google Apps DRC83 MDPI-TINY",
+        "name": "Google Apps DRC83",
         "summary": "Recommended for CM4\nFor Android 1.6 MDPI-TINY devices",
         "product": "donuttiny",
         "modversion": "GApps-DRC83",
