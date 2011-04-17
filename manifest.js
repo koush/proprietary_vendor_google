@@ -6,7 +6,7 @@
     [
     {
         "name": "20110307 Universal (Recommended)",
-        "summary": "March 7, 2011 for Android 2.3.3 (CM7 Nightly 11+, RC2-3, Stable)",
+        "summary": "March 7, 2011 for Android 2.3.3 (CM7 Nightly, RC2+, Stable)",
         "product": "gingerbread",
         "incremental": "20110307",
         "device": "all",
