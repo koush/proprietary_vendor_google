@@ -5,8 +5,8 @@
     "roms":
     [
     {
-        "name": "20110307 Universal (Recommended)",
-        "summary": "March 7, 2011 for Android 2.3.3\n(CM7 Nightly, RC2+, Stable)",
+        "name": "20110307 Universal",
+        "summary": "Recommended for CM 7.0.0 Stable, RC2-4, and Nightly\nMarch 7, 2011 for Android 2.3.3",
         "product": "gingerbread",
         "incremental": "20110307",
         "device": "all",
@@ -14,7 +14,7 @@
     },
     {
         "name": "(EOL) 20110120 Universal",
-        "summary": "No longer supported.\nJanuary 20, 2011 for Android 2.3.2 (CM7 RC1)",
+        "summary": "No longer supported.\nJanuary 20, 2011 for Android 2.3.2",
         "product": "gingerbread",
         "incremental": "20110120",
         "device": "all",
@@ -30,7 +30,7 @@
     },
     {
         "name": "(EOL) 20110115 Universal",
-        "summary": "No longer supported. January 15, 2011 for Android 2.3.2",
+        "summary": "No longer supported.\nJanuary 15, 2011 for Android 2.3.2",
         "product": "gingerbread",
         "incremental": "20110115",
         "device": "all",
@@ -38,7 +38,7 @@
     },
     {
         "name": "(EOL) 20110114 Universal",
-        "summary": "No longer supported. January 14, 2011 for Android 2.3.2",
+        "summary": "No longer supported.\nJanuary 14, 2011 for Android 2.3.2",
         "product": "gingerbread",
         "incremental": "20110114",
         "device": "all",
@@ -46,7 +46,7 @@
     },
 	{
         "name": "(EOL) 20110113 Tegra",
-        "summary": "No longer supported. January 13, 2011 for Android 2.3.2 Tegra devices",
+        "summary": "No longer supported.\nJanuary 13, 2011 for Android 2.3.2 Tegra devices",
         "product": "gbtegra",
         "incremental": "20110113",
         "device": "harmony",
@@ -54,7 +54,7 @@
     },
 	{
         "name": "20101114 HDPI",
-        "summary": "November 14, 2010 for Android 2.2 HDPI devices",
+        "summary": "Recommended for CM6\nNovember 14, 2010 for Android 2.2 HDPI devices",
         "product": "froyohdpi",
         "incremental": "20101114",
         "devices": 
@@ -72,7 +72,7 @@
     },
 	{
         "name": "(EOL) 20101025 HDPI",
-        "summary": "No longer supported. October 25, 2010 for Android 2.2 HDPI devices",
+        "summary": "No longer supported.\nOctober 25, 2010 for Android 2.2 HDPI devices",
         "product": "froyohdpi",
         "incremental": "20101025",
         "devices": 
@@ -90,7 +90,7 @@
     },
 	{
         "name": "(EOL) 20101020 HDPI",
-        "summary": "No longer supported. October 20, 2010 for Android 2.2 HDPI devices",
+        "summary": "No longer supported.\nOctober 20, 2010 for Android 2.2 HDPI devices",
         "product": "froyohdpi",
         "incremental": "20101020",
         "devices": 
@@ -108,7 +108,7 @@
     },
 	{
         "name": "(EOL) 20100930 HDPI",
-        "summary": "No longer supported. September 30, 2010 for Android 2.2 HDPI devices",
+        "summary": "No longer supported.\nSeptember 30, 2010 for Android 2.2 HDPI devices",
         "product": "froyohdpi",
         "incremental": "20100930",
         "devices": 
@@ -126,7 +126,7 @@
     },
 	{
         "name": "(EOL) 20100926 HDPI",
-        "summary": "No longer supported. September 26, 2010 for Android 2.2 HDPI devices",
+        "summary": "No longer supported.\nSeptember 26, 2010 for Android 2.2 HDPI devices",
         "product": "froyohdpi",
         "incremental": "20100926",
         "devices": 
@@ -144,7 +144,7 @@
     },
 	{
         "name": "(EOL) 20100917 HDPI",
-        "summary": "No longer supported. September 17, 2010 for Android 2.2 HDPI devices",
+        "summary": "No longer supported.\nSeptember 17, 2010 for Android 2.2 HDPI devices",
         "product": "froyohdpi",
         "incremental": "20100917",
         "devices": 
@@ -162,7 +162,7 @@
     },
 	{
         "name": "(EOL) 20100817 HDPI",
-        "summary": "No longer supported. August 17, 2010 for Android 2.2 HDPI devices",
+        "summary": "No longer supported.\nAugust 17, 2010 for Android 2.2 HDPI devices",
         "product": "froyohdpi",
         "incremental": "20100817",
         "devices": 
@@ -180,7 +180,7 @@
     },
 	{
         "name": "20110301 MDPI",
-        "summary": "March 1, 2011 for Android 2.2 MDPI devices",
+        "summary": "Recommended for CM6\nMarch 1, 2011 for Android 2.2 MDPI devices",
         "product": "froyomdpi",
         "incremental": "20110301",
         "devices": 
@@ -197,7 +197,7 @@
     },
 	{
         "name": "(EOL) 20101020 MDPI",
-        "summary": "No longer supported. October 20, 2010 for Android 2.2 MDPI devices",
+        "summary": "No longer supported.\nOctober 20, 2010 for Android 2.2 MDPI devices",
         "product": "froyomdpi",
         "incremental": "20101020",
         "devices": 
@@ -214,7 +214,7 @@
     },
 	{
         "name": "(EOL) 20100930 MDPI",
-        "summary": "No longer supported. September 30, 2010 for Android 2.2 MDPI devices",
+        "summary": "No longer supported.\nSeptember 30, 2010 for Android 2.2 MDPI devices",
         "product": "froyomdpi",
         "incremental": "20100930",
         "devices": 
@@ -231,7 +231,7 @@
     },
 	{
         "name": "(EOL) 20100926 MDPI",
-        "summary": "No longer supported. September 26, 2010 for Android 2.2 MDPI devices",
+        "summary": "No longer supported.\nSeptember 26, 2010 for Android 2.2 MDPI devices",
         "product": "froyomdpi",
         "incremental": "20100926",
         "devices": 
@@ -248,7 +248,7 @@
     },
 	{
         "name": "(EOL) 20100917 MDPI",
-        "summary": "No longer supported. September 17, 2010 for Android 2.2 MDPI devices",
+        "summary": "No longer supported.\nSeptember 17, 2010 for Android 2.2 MDPI devices",
         "product": "froyomdpi",
         "incremental": "20100917",
         "devices": 
@@ -265,7 +265,7 @@
     },
 	{
         "name": "(EOL) 20100816 MDPI",
-        "summary": "No longer supported. August 16, 2010 for Android 2.2 MDPI devices",
+        "summary": "No longer supported.\nAugust 16, 2010 for Android 2.2 MDPI devices",
         "product": "froyomdpi",
         "incremental": "20100816",
         "devices": 
@@ -282,7 +282,7 @@
     },
 	{
         "name": "20101020 MDPI-TINY",
-        "summary": "October 20, 2010 for Android 2.2 MDPI-TINY devices",
+        "summary": "Recommended for CM6\nOctober 20, 2010 for Android 2.2 MDPI-TINY devices",
         "product": "froyotiny",
         "incremental": "20101020",
         "devices": 
@@ -296,7 +296,7 @@
     },
 	{
         "name": "(EOL) 20100930 MDPI-TINY",
-        "summary": "No longer supported. September 30, 2010 for Android 2.2 MDPI-TINY devices",
+        "summary": "No longer supported.\nSeptember 30, 2010 for Android 2.2 MDPI-TINY devices",
         "product": "froyotiny",
         "incremental": "20100930",
         "devices": 
@@ -310,7 +310,7 @@
     },
 	{
         "name": "(EOL) 20100926 MDPI-TINY",
-        "summary": "No longer supported. September 26, 2010 for Android 2.2 MDPI-TINY devices",
+        "summary": "No longer supported.\nSeptember 26, 2010 for Android 2.2 MDPI-TINY devices",
         "product": "froyotiny",
         "incremental": "20100926",
         "devices": 
@@ -324,7 +324,7 @@
     },
 	{
         "name": "(EOL) 20100917 MDPI-TINY",
-        "summary": "No longer supported. September 17, 2010 for Android 2.2 MDPI-TINY devices",
+        "summary": "No longer supported.\nSeptember 17, 2010 for Android 2.2 MDPI-TINY devices",
         "product": "froyotiny",
         "incremental": "20100917",
         "devices": 
@@ -338,7 +338,7 @@
     },
 	{
         "name": "(EOL) 20100816 MDPI-TINY",
-        "summary": "No longer supported. August 16, 2010 for Android 2.2 MDPI-TINY devices",
+        "summary": "No longer supported.\nAugust 16, 2010 for Android 2.2 MDPI-TINY devices",
         "product": "froyotiny",
         "incremental": "20100816",
         "devices": 
@@ -350,9 +350,20 @@
         ],
         "url": "http://goo-inside.me/gapps/gapps-mdpi-tiny-20100816-signed.zip"
     },
+    {
+        "name": "20101020 MDPI-TEGRA",
+        "summary": "Recommended for CM6\nOctober 20, 2010 for Android 2.2 MDPI-TEGRA devices",
+        "product": "froyotegra",
+        "incremental": "20101020",
+        "devices": 
+        [
+            "harmony"
+        ],
+        "url": "http://goo-inside.me/gapps/gapps-mdpi-tiny-20100816-signed.zip"
+    },
 	{
         "name": "Google Apps EPE54B HDPI",
-        "summary": "For Android 2.1 (CyanogenMod 5)",
+        "summary": "Recommended for CM5\nFor Android 2.1 HDPI devices",
         "product": "eclairhdpi",
         "incremental": "0001",
         "devices": 
@@ -364,7 +375,7 @@
     },
 	{
         "name": "Google Apps ERE36B MDPI-TINY",
-        "summary": "For Android 2.1 (CyanogenMod 5)",
+        "summary": "Recommended for CM5\nFor Android 2.1 MDPI-TINY devices",
         "product": "eclairtiny",
         "incremental": "0001",
         "devices": 
@@ -377,7 +388,7 @@
     },
 	{
         "name": "Google Apps DRC83 MDPI-TINY",
-        "summary": "For Android 1.6 (CyanogenMod 4)",
+        "summary": "Recommended for CM4\nFor Android 1.6 MDPI-TINY devices",
         "product": "donuttiny",
         "incremental": "0001",
         "devices": 
