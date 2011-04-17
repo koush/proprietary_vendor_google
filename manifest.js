@@ -6,7 +6,7 @@
     [
     {
         "name": "20110307 Universal (Recommended)",
-        "summary": "March 7, 2011 for Android 2.3.3 (CM7 Nightly, RC2+, Stable)",
+        "summary": "March 7, 2011 for Android 2.3.3\n(CM7 Nightly, RC2+, Stable)",
         "product": "gingerbread",
         "incremental": "20110307",
         "device": "all",
@@ -14,7 +14,7 @@
     },
     {
         "name": "(EOL) 20110120 Universal",
-        "summary": "No longer supported. January 20, 2011 for Android 2.3.2 (CM7 RC1)",
+        "summary": "No longer supported.\nJanuary 20, 2011 for Android 2.3.2 (CM7 RC1)",
         "product": "gingerbread",
         "incremental": "20110120",
         "device": "all",
@@ -22,7 +22,7 @@
     },
     {
         "name": "(EOL) 20110118 Tegra",
-        "summary": "No longer supported. January 18, 2011 for Android 2.3.2 Tegra devices",
+        "summary": "No longer supported.\nJanuary 18, 2011 for Android 2.3.2 Tegra devices",
         "product": "gbtegra",
         "incremental": "20110118",
         "device": "harmony",
