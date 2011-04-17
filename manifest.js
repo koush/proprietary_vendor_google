@@ -13,7 +13,7 @@
         "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip"
     },
     {
-        "name": "(EOL) 20110120 Universal",
+        "name": "20110120 Universal",
         "summary": "No longer supported.\nJanuary 20, 2011 for Android 2.3.2",
         "product": "gingerbread",
         "incremental": "20110120",
@@ -21,7 +21,7 @@
         "url": "http://goo-inside.me/gapps/gapps-gb-20110120-signed.zip"
     },
     {
-        "name": "(EOL) 20110118 Tegra",
+        "name": "20110118 Tegra",
         "summary": "No longer supported.\nJanuary 18, 2011 for Android 2.3.2 Tegra devices",
         "product": "gbtegra",
         "incremental": "20110118",
@@ -29,7 +29,7 @@
         "url": "http://goo-inside.me/gapps/gapps-gb-tegra-20110118-signed.zip"
     },
     {
-        "name": "(EOL) 20110115 Universal",
+        "name": "20110115 Universal",
         "summary": "No longer supported.\nJanuary 15, 2011 for Android 2.3.2",
         "product": "gingerbread",
         "incremental": "20110115",
@@ -37,7 +37,7 @@
         "url": "http://goo-inside.me/gapps/gapps-gb-20110115-signed.zip"
     },
     {
-        "name": "(EOL) 20110114 Universal",
+        "name": "20110114 Universal",
         "summary": "No longer supported.\nJanuary 14, 2011 for Android 2.3.2",
         "product": "gingerbread",
         "incremental": "20110114",
@@ -45,7 +45,7 @@
         "url": "http://goo-inside.me/gapps/gapps-gb-20110114-signed.zip"
     },
 	{
-        "name": "(EOL) 20110113 Tegra",
+        "name": "20110113 Tegra",
         "summary": "No longer supported.\nJanuary 13, 2011 for Android 2.3.2 Tegra devices",
         "product": "gbtegra",
         "incremental": "20110113",
@@ -71,7 +71,7 @@
         "url": "http://goo-inside.me/gapps/gapps-mdpi-20110301-signed.zip"
     },
 	{
-        "name": "(EOL) 20101025 HDPI",
+        "name": "20101025 HDPI",
         "summary": "No longer supported.\nOctober 25, 2010 for Android 2.2 HDPI devices",
         "product": "froyohdpi",
         "incremental": "20101025",
@@ -89,7 +89,7 @@
         "url": "http://goo-inside.me/gapps/gapps-hdpi-20101025-signed.zip"
     },
 	{
-        "name": "(EOL) 20101020 HDPI",
+        "name": "20101020 HDPI",
         "summary": "No longer supported.\nOctober 20, 2010 for Android 2.2 HDPI devices",
         "product": "froyohdpi",
         "incremental": "20101020",
@@ -107,7 +107,7 @@
         "url": "http://goo-inside.me/gapps/gapps-hdpi-20101020-signed.zip"
     },
 	{
-        "name": "(EOL) 20100930 HDPI",
+        "name": "20100930 HDPI",
         "summary": "No longer supported.\nSeptember 30, 2010 for Android 2.2 HDPI devices",
         "product": "froyohdpi",
         "incremental": "20100930",
@@ -125,7 +125,7 @@
         "url": "http://goo-inside.me/gapps/gapps-hdpi-20100930-signed.zip"
     },
 	{
-        "name": "(EOL) 20100926 HDPI",
+        "name": "20100926 HDPI",
         "summary": "No longer supported.\nSeptember 26, 2010 for Android 2.2 HDPI devices",
         "product": "froyohdpi",
         "incremental": "20100926",
@@ -143,7 +143,7 @@
         "url": "http://goo-inside.me/gapps/gapps-hdpi-20100926-signed.zip"
     },
 	{
-        "name": "(EOL) 20100917 HDPI",
+        "name": "20100917 HDPI",
         "summary": "No longer supported.\nSeptember 17, 2010 for Android 2.2 HDPI devices",
         "product": "froyohdpi",
         "incremental": "20100917",
@@ -161,7 +161,7 @@
         "url": "http://goo-inside.me/gapps/gapps-hdpi-20100917-signed.zip"
     },
 	{
-        "name": "(EOL) 20100817 HDPI",
+        "name": "20100817 HDPI",
         "summary": "No longer supported.\nAugust 17, 2010 for Android 2.2 HDPI devices",
         "product": "froyohdpi",
         "incremental": "20100817",
@@ -196,7 +196,7 @@
         "url": "http://goo-inside.me/gapps/gapps-mdpi-20110301-signed.zip"
     },
 	{
-        "name": "(EOL) 20101020 MDPI",
+        "name": "20101020 MDPI",
         "summary": "No longer supported.\nOctober 20, 2010 for Android 2.2 MDPI devices",
         "product": "froyomdpi",
         "incremental": "20101020",
@@ -213,7 +213,7 @@
         "url": "http://goo-inside.me/gapps/gapps-mdpi-20101020-signed.zip"
     },
 	{
-        "name": "(EOL) 20100930 MDPI",
+        "name": "20100930 MDPI",
         "summary": "No longer supported.\nSeptember 30, 2010 for Android 2.2 MDPI devices",
         "product": "froyomdpi",
         "incremental": "20100930",
@@ -230,7 +230,7 @@
         "url": "http://goo-inside.me/gapps/gapps-mdpi-20100930-signed.zip"
     },
 	{
-        "name": "(EOL) 20100926 MDPI",
+        "name": "20100926 MDPI",
         "summary": "No longer supported.\nSeptember 26, 2010 for Android 2.2 MDPI devices",
         "product": "froyomdpi",
         "incremental": "20100926",
@@ -247,7 +247,7 @@
         "url": "http://goo-inside.me/gapps/gapps-mdpi-20100926-signed.zip"
     },
 	{
-        "name": "(EOL) 20100917 MDPI",
+        "name": "20100917 MDPI",
         "summary": "No longer supported.\nSeptember 17, 2010 for Android 2.2 MDPI devices",
         "product": "froyomdpi",
         "incremental": "20100917",
@@ -264,7 +264,7 @@
         "url": "http://goo-inside.me/gapps/gapps-mdpi-20100917-signed.zip"
     },
 	{
-        "name": "(EOL) 20100816 MDPI",
+        "name": "20100816 MDPI",
         "summary": "No longer supported.\nAugust 16, 2010 for Android 2.2 MDPI devices",
         "product": "froyomdpi",
         "incremental": "20100816",
@@ -295,7 +295,7 @@
         "url": "http://goo-inside.me/gapps/gapps-mdpi-tiny-20101020-signed.zip"
     },
 	{
-        "name": "(EOL) 20100930 MDPI-TINY",
+        "name": "20100930 MDPI-TINY",
         "summary": "No longer supported.\nSeptember 30, 2010 for Android 2.2 MDPI-TINY devices",
         "product": "froyotiny",
         "incremental": "20100930",
@@ -309,7 +309,7 @@
         "url": "http://goo-inside.me/gapps/gapps-mdpi-tiny-20100930-signed.zip"
     },
 	{
-        "name": "(EOL) 20100926 MDPI-TINY",
+        "name": "20100926 MDPI-TINY",
         "summary": "No longer supported.\nSeptember 26, 2010 for Android 2.2 MDPI-TINY devices",
         "product": "froyotiny",
         "incremental": "20100926",
@@ -323,7 +323,7 @@
         "url": "http://goo-inside.me/gapps/gapps-mdpi-tiny-20100926-signed.zip"
     },
 	{
-        "name": "(EOL) 20100917 MDPI-TINY",
+        "name": "20100917 MDPI-TINY",
         "summary": "No longer supported.\nSeptember 17, 2010 for Android 2.2 MDPI-TINY devices",
         "product": "froyotiny",
         "incremental": "20100917",
@@ -337,7 +337,7 @@
         "url": "http://goo-inside.me/gapps/gapps-mdpi-tiny-20100917-signed.zip"
     },
 	{
-        "name": "(EOL) 20100816 MDPI-TINY",
+        "name": "20100816 MDPI-TINY",
         "summary": "No longer supported.\nAugust 16, 2010 for Android 2.2 MDPI-TINY devices",
         "product": "froyotiny",
         "incremental": "20100816",
