@@ -75,7 +75,7 @@
             "supersonic",
             "vision"
         ],
-        "url": "http://goo-inside.me/cyanogen/gapps/gapps-hdpi-20101114-signed.zip"
+        "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip"
     },
 	{
         "name": "20101025 HDPI",
