@@ -75,7 +75,7 @@
             "supersonic",
             "vision"
         ],
-        "url": "http://goo-inside.me/gapps/gapps-mdpi-20110301-signed.zip"
+        "url": "http://goo-inside.me/cyanogen/gapps/gapps-hdpi-20101114-signed.zip"
     },
 	{
         "name": "20101025 HDPI",
@@ -192,8 +192,26 @@
         "url": "http://goo-inside.me/gapps/gapps-hdpi-20100817-signed.zip"
     },
 	{
+        "name": "20110501 MDPI",
+        "summary": "Recommended for CM6\nMay 1, 2011 for Android 2.2 MDPI devices",
+        "product": "froyomdpi",
+        "modversion": "GApps-20110501-MDPI",
+        "incremental": "20110501",
+        "devices": 
+        [
+            "buzz",
+            "espresso",
+            "hero",
+            "heroc",
+            "legend",
+            "liberty",
+            "z71"
+        ],
+        "url": "http://goo-inside.me/gapps/gapps-mdpi-20110501-signed.zip"
+    },
+	{
         "name": "20110301 MDPI",
-        "summary": "Recommended for CM6\nMarch 1, 2011 for Android 2.2 MDPI devices",
+        "summary": "No longer supported.\nMarch 1, 2011 for Android 2.2 MDPI devices",
         "product": "froyomdpi",
         "modversion": "GApps-20110301-MDPI",
         "incremental": "20110301",
