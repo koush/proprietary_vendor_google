@@ -5,12 +5,12 @@
     "roms": [
         {
             "name": "20110503 Universal",
-            "summary": "Recommended for CM 7.1.0 builds\nMay 3, 2011 for Android 2.3.4",
+            "summary": "EXPERIMENTAL BUILD\nMay 3, 2011 for Android 2.3.4\nKnown issues and bugs especially with video chat!",
             "product": "gingerbread",
             "modversion": "GApps-20110503-Universal",
             "incremental": "20110503",
             "device": "all",
-            "url": "http://goo-inside.me/gapps/gapps-gb-20110503-signed.zip" 
+            "url": "http://goo-inside.me/gapps/testing/gapps-gb-20110503-signed.zip" 
         },
         {
             "name": "20110307 Universal",
