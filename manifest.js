@@ -5,7 +5,7 @@
     "roms": [
         {
             "name": "20110503 Universal",
-            "summary": "EXPERIMENTAL BUILD\nMay 3, 2011 for Android 2.3.4\nKnown issues and bugs especially with video chat!",
+            "summary": "EXPERIMENTAL BUILD\nMay 3, 2011 for Android 2.3.4\nKnown issues and bugs with video/voice chat!\nDo not flash unless you know what you're doing!",
             "product": "gingerbread",
             "modversion": "GApps-20110503-Universal",
             "incremental": "20110503",
@@ -14,7 +14,7 @@
         },
         {
             "name": "20110307 Universal",
-            "summary": "Recommended for CM 7.0.0 Stable, RC2+, Nightly\nMarch 7, 2011 for Android 2.3.3",
+            "summary": "Recommended for CM 7.0.x\nMarch 7, 2011 for Android 2.3.3",
             "product": "gingerbread",
             "modversion": "GApps-20110307-Universal",
             "incremental": "20110307",
