@@ -4,15 +4,6 @@
     "donate": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KNWA22ZGW32VS",
     "roms": [
         {
-            "name": "20110503 Universal",
-            "summary": "EXPERIMENTAL BUILD!\nMay 3, 2011 for Android 2.3.4\nKnown issues and bugs with video/voice chat!",
-            "product": "gingerbread",
-            "modversion": "GApps-20110503-Universal",
-            "incremental": "20110503",
-            "device": "all",
-            "url": "http://goo-inside.me/gapps/gapps-gb-20110503-signed.zip" 
-        },
-        {
             "name": "20110307 Universal",
             "summary": "Recommended for CM 7.0.x\nMarch 7, 2011 for Android 2.3.3",
             "product": "gingerbread",
