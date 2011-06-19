@@ -1,3 +1,5 @@
-GApps packages to be mirrored to Goo-Inside.me will be uploaded here. Voila!
-Also going to put the ROM Manager manifest I'm tinkering with here.
-Who knows if it will/will not be put in ROM Manager.
+This repo contains the ROM Manager manifest and current packages for
+the Google Applications to be used with AOSP ROMs such as CyanogenMod.
+
+Old versions of the packages can be found at goo-inside.me/gapps as well
+as all current versions.
