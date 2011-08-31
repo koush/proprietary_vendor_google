@@ -1,6 +1,6 @@
 {
     "version": "1",
-    "homepage": "http://goo-inside.me/gapps/",
+    "homepage": "http://goo-inside.me/gapps",
     "donate": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KNWA22ZGW32VS",
     "roms": [
         {
@@ -13,7 +13,7 @@
             "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip",
             "addons": [
                 {
-                    "name": "Google Talk with Video Chat (May not work on all devices)",
+                    "name": "GTalk w/ Video Chat (Experimental!)",
                     "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip"
                 }
             ]
