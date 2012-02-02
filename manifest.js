@@ -1,8 +1,23 @@
 {
     "version": "1",
     "homepage": "http://goo-inside.me/gapps",
-    "donate": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KNWA22ZGW32VS",
+    "donate": "http://denh.am/d",
     "roms": [
+        {
+            "name": "20120201 ICS",
+            "summary": "Recommended for CM 9.0.x\nFebruary 1, 2012 for Android 4.0.3",
+            "product": "ics",
+            "modversion": "GApps-20120201-ICS",
+            "incremental": "20120201",
+            "device": "all",
+            "url": "http://goo-inside.me/gapps/gapps-ics-20120201-signed.zip",
+            "addons": [
+                {
+                    "name": "Face Unlock",
+                    "url": "http://goo-inside.me/gapps/gapps-ics-facelock-20120131-signed.zip"
+                }
+            ]
+        },
         {
             "name": "20110828 Universal",
             "summary": "Recommended for CM 7.1.x\nAugust 28, 2011 for Android 2.3.5",
