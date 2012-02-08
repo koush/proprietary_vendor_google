@@ -1,6 +1,6 @@
 {
     "version": "1",
-    "homepage": "http://goo-inside.me/gapps",
+    "homepage": "http://wiki.rootzwiki.com/Google_Apps",
     "donate": "http://denh.am/d",
     "roms": [
         {
