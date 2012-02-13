@@ -4,6 +4,15 @@
     "donate": "http://denh.am/d",
     "roms": [
         {
+            "name": "20120212 ICS",
+            "summary": "Recommended for CM 9.0.x\nFebruary 12, 2012 for Android 4.0.3",
+            "product": "ics",
+            "modversion": "GApps-20120212-ICS",
+            "incremental": "20120212",
+            "device": "all",
+            "url": "http://goo-inside.me/gapps/gapps-ics-20120212-signed.zip"
+        },
+        {
             "name": "20120207 ICS",
             "summary": "Recommended for CM 9.0.x\nFebruary 7, 2012 for Android 4.0.3",
             "product": "ics",
