@@ -10,7 +10,7 @@
             "modversion": "GApps-20120304-ICS",
             "incremental": "20120304",
             "device": "all",
-            "url": "http://goo-inside.me/gapps/gapps-ics-20120304-signed.zip"
+            "url": "http://download.clockworkmod.com/gapps/gapps-ics-20120304-signed.zip"
         },
         {
             "name": "20120224 ICS",
@@ -19,7 +19,7 @@
             "modversion": "GApps-20120224-ICS",
             "incremental": "20120224",
             "device": "all",
-            "url": "http://goo-inside.me/gapps/gapps-ics-20120224-signed.zip"
+            "url": "http://download.clockworkmod.com/gapps/gapps-ics-20120224-signed.zip"
         },
         {
             "name": "20120215 ICS",
@@ -28,7 +28,7 @@
             "modversion": "GApps-20120215-ICS",
             "incremental": "20120215",
             "device": "all",
-            "url": "http://goo-inside.me/gapps/gapps-ics-20120215-signed.zip"
+            "url": "http://download.clockworkmod.com/gapps/gapps-ics-20120215-signed.zip"
         },
         {
             "name": "20120213 ICS",
@@ -37,7 +37,7 @@
             "modversion": "GApps-20120213-ICS",
             "incremental": "20120213",
             "device": "all",
-            "url": "http://goo-inside.me/gapps/gapps-ics-20120213-signed.zip"
+            "url": "http://download.clockworkmod.com/gapps/gapps-ics-20120213-signed.zip"
         },
         {
             "name": "20120212 ICS",
@@ -46,7 +46,7 @@
             "modversion": "GApps-20120212-ICS",
             "incremental": "20120212",
             "device": "all",
-            "url": "http://goo-inside.me/gapps/gapps-ics-20120212-signed.zip"
+            "url": "http://download.clockworkmod.com/gapps/gapps-ics-20120212-signed.zip"
         },
         {
             "name": "20120207 ICS",
@@ -55,7 +55,7 @@
             "modversion": "GApps-20120207-ICS",
             "incremental": "20120207",
             "device": "all",
-            "url": "http://goo-inside.me/gapps/gapps-ics-20120207-signed.zip"
+            "url": "http://download.clockworkmod.com/gapps/gapps-ics-20120207-signed.zip"
         },
         {
             "name": "20120201 ICS",
@@ -64,11 +64,11 @@
             "modversion": "GApps-20120201-ICS",
             "incremental": "20120201",
             "device": "all",
-            "url": "http://goo-inside.me/gapps/gapps-ics-20120201-signed.zip",
+            "url": "http://download.clockworkmod.com/gapps/gapps-ics-20120201-signed.zip",
             "addons": [
                 {
                     "name": "Face Unlock",
-                    "url": "http://goo-inside.me/gapps/gapps-ics-facelock-20120131-signed.zip"
+                    "url": "http://download.clockworkmod.com/gapps/gapps-ics-facelock-20120131-signed.zip"
                 }
             ]
         },
@@ -79,11 +79,11 @@
             "modversion": "GApps-20110828-Universal",
             "incremental": "20110828",
             "device": "all",
-            "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip",
+            "url": "http://download.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip",
             "addons": [
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip"
+                    "url": "http://download.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip"
                 }
             ]
         },
@@ -94,7 +94,7 @@
             "modversion": "GApps-20110613-Universal",
             "incremental": "20110613",
             "device": "all",
-            "url": "http://goo-inside.me/gapps/gapps-gb-20110613-signed.zip"
+            "url": "http://download.clockworkmod.com/gapps/gapps-gb-20110613-signed.zip"
         },
         {
             "name": "20110307 Universal",
@@ -103,7 +103,7 @@
             "modversion": "GApps-20110307-Universal",
             "incremental": "20110307",
             "device": "all",
-            "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip"
+            "url": "http://download.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip"
         },
         {
             "name": "20110120 Universal",
@@ -112,7 +112,7 @@
             "modversion": "GApps-20110120-Universal",
             "incremental": "20110120",
             "device": "all",
-            "url": "http://goo-inside.me/gapps/gapps-gb-20110120-signed.zip"
+            "url": "http://download.clockworkmod.com/gapps/gapps-gb-20110120-signed.zip"
         },
         {
             "name": "20110118 Tegra",
@@ -121,7 +121,7 @@
             "modversion": "GApps-20110118-Tegra",
             "incremental": "20110118",
             "device": "harmony",
-            "url": "http://goo-inside.me/gapps/gapps-gb-tegra-20110118-signed.zip"
+            "url": "http://download.clockworkmod.com/gapps/gapps-gb-tegra-20110118-signed.zip"
         },
         {
             "name": "20110115 Universal",
@@ -130,7 +130,7 @@
             "modversion": "GApps-20110115-Universal",
             "incremental": "20110115",
             "device": "all",
-            "url": "http://goo-inside.me/gapps/gapps-gb-20110115-signed.zip"
+            "url": "http://download.clockworkmod.com/gapps/gapps-gb-20110115-signed.zip"
         },
         {
             "name": "20110114 Universal",
@@ -139,7 +139,7 @@
             "modversion": "GApps-20110114-Universal",
             "incremental": "20110114",
             "device": "all",
-            "url": "http://goo-inside.me/gapps/gapps-gb-20110114-signed.zip"
+            "url": "http://download.clockworkmod.com/gapps/gapps-gb-20110114-signed.zip"
         },
         {
             "name": "20110113 Tegra",
@@ -148,7 +148,7 @@
             "modversion": "GApps-20110113-Tegra",
             "incremental": "20110113",
             "device": "harmony",
-            "url": "http://goo-inside.me/gapps/gapps-gb-tegra-20110113-signed.zip"
+            "url": "http://download.clockworkmod.com/gapps/gapps-gb-tegra-20110113-signed.zip"
         },
         {
             "name": "20101114 HDPI",
@@ -166,7 +166,7 @@
                 "supersonic",
                 "vision"
             ],
-            "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip"
+            "url": "http://download.clockworkmod.com/gapps/gapps-hdpi-20101114-signed.zip"
         },
         {
             "name": "20101025 HDPI",
@@ -184,7 +184,7 @@
                 "supersonic",
                 "vision"
             ],
-            "url": "http://goo-inside.me/gapps/gapps-hdpi-20101025-signed.zip"
+            "url": "http://download.clockworkmod.com/gapps/gapps-hdpi-20101025-signed.zip"
         },
         {
             "name": "20101020 HDPI",
@@ -202,7 +202,7 @@
                 "supersonic",
                 "vision"
             ],
-            "url": "http://goo-inside.me/gapps/gapps-hdpi-20101020-signed.zip"
+            "url": "http://download.clockworkmod.com/gapps/gapps-hdpi-20101020-signed.zip"
         },
         {
             "name": "20100930 HDPI",
@@ -220,7 +220,7 @@
                 "supersonic",
                 "vision"
             ],
-            "url": "http://goo-inside.me/gapps/gapps-hdpi-20100930-signed.zip"
+            "url": "http://download.clockworkmod.com/gapps/gapps-hdpi-20100930-signed.zip"
         },
         {
             "name": "20100926 HDPI",
@@ -238,7 +238,7 @@
                 "supersonic",
                 "vision"
             ],
-            "url": "http://goo-inside.me/gapps/gapps-hdpi-20100926-signed.zip"
+            "url": "http://download.clockworkmod.com/gapps/gapps-hdpi-20100926-signed.zip"
         },
         {
             "name": "20100917 HDPI",
@@ -256,7 +256,7 @@
                 "supersonic",
                 "vision"
             ],
-            "url": "http://goo-inside.me/gapps/gapps-hdpi-20100917-signed.zip"
+            "url": "http://download.clockworkmod.com/gapps/gapps-hdpi-20100917-signed.zip"
         },
         {
             "name": "20100817 HDPI",
@@ -274,7 +274,7 @@
                 "supersonic",
                 "vision"
             ],
-            "url": "http://goo-inside.me/gapps/gapps-hdpi-20100817-signed.zip"
+            "url": "http://download.clockworkmod.com/gapps/gapps-hdpi-20100817-signed.zip"
         },
         {
             "name": "20110501 MDPI",
@@ -291,7 +291,7 @@
                 "liberty",
                 "z71"
             ],
-            "url": "http://goo-inside.me/gapps/gapps-mdpi-20110501-signed.zip"
+            "url": "http://download.clockworkmod.com/gapps/gapps-mdpi-20110501-signed.zip"
         },
         {
             "name": "20110301 MDPI",
@@ -308,7 +308,7 @@
                 "liberty",
                 "z71"
             ],
-            "url": "http://goo-inside.me/gapps/gapps-mdpi-20110301-signed.zip"
+            "url": "http://download.clockworkmod.com/gapps/gapps-mdpi-20110301-signed.zip"
         },
         {
             "name": "20101020 MDPI",
@@ -325,7 +325,7 @@
                 "liberty",
                 "z71"
             ],
-            "url": "http://goo-inside.me/gapps/gapps-mdpi-20101020-signed.zip"
+            "url": "http://download.clockworkmod.com/gapps/gapps-mdpi-20101020-signed.zip"
         },
         {
             "name": "20100930 MDPI",
@@ -342,7 +342,7 @@
                 "liberty",
                 "z71"
             ],
-            "url": "http://goo-inside.me/gapps/gapps-mdpi-20100930-signed.zip"
+            "url": "http://download.clockworkmod.com/gapps/gapps-mdpi-20100930-signed.zip"
         },
         {
             "name": "20100926 MDPI",
@@ -359,7 +359,7 @@
                 "liberty",
                 "z71"
             ],
-            "url": "http://goo-inside.me/gapps/gapps-mdpi-20100926-signed.zip"
+            "url": "http://download.clockworkmod.com/gapps/gapps-mdpi-20100926-signed.zip"
         },
         {
             "name": "20100917 MDPI",
@@ -376,7 +376,7 @@
                 "liberty",
                 "z71"
             ],
-            "url": "http://goo-inside.me/gapps/gapps-mdpi-20100917-signed.zip"
+            "url": "http://download.clockworkmod.com/gapps/gapps-mdpi-20100917-signed.zip"
         },
         {
             "name": "20100816 MDPI",
@@ -393,7 +393,7 @@
                 "liberty",
                 "z71"
             ],
-            "url": "http://goo-inside.me/gapps/gapps-mdpi-20100816-signed.zip"
+            "url": "http://download.clockworkmod.com/gapps/gapps-mdpi-20100816-signed.zip"
         },
         {
             "name": "20101020 MDPI-TINY",
@@ -407,7 +407,7 @@
                 "sapphire",
                 "one"
             ],
-            "url": "http://goo-inside.me/gapps/gapps-mdpi-tiny-20101020-signed.zip"
+            "url": "http://download.clockworkmod.com/gapps/gapps-mdpi-tiny-20101020-signed.zip"
         },
         {
             "name": "20100930 MDPI-TINY",
@@ -421,7 +421,7 @@
                 "sapphire",
                 "one"
             ],
-            "url": "http://goo-inside.me/gapps/gapps-mdpi-tiny-20100930-signed.zip"
+            "url": "http://download.clockworkmod.com/gapps/gapps-mdpi-tiny-20100930-signed.zip"
         },
         {
             "name": "20100926 MDPI-TINY",
@@ -435,7 +435,7 @@
                 "sapphire",
                 "one"
             ],
-            "url": "http://goo-inside.me/gapps/gapps-mdpi-tiny-20100926-signed.zip"
+            "url": "http://download.clockworkmod.com/gapps/gapps-mdpi-tiny-20100926-signed.zip"
         },
         {
             "name": "20100917 MDPI-TINY",
@@ -449,7 +449,7 @@
                 "sapphire",
                 "one"
             ],
-            "url": "http://goo-inside.me/gapps/gapps-mdpi-tiny-20100917-signed.zip"
+            "url": "http://download.clockworkmod.com/gapps/gapps-mdpi-tiny-20100917-signed.zip"
         },
         {
             "name": "20100816 MDPI-TINY",
@@ -463,7 +463,7 @@
                 "sapphire",
                 "one"
             ],
-            "url": "http://goo-inside.me/gapps/gapps-mdpi-tiny-20100816-signed.zip"
+            "url": "http://download.clockworkmod.com/gapps/gapps-mdpi-tiny-20100816-signed.zip"
         },
         {
             "name": "20101020 MDPI-TEGRA",
@@ -474,7 +474,7 @@
             "devices": [
                 "harmony"
             ],
-            "url": "http://goo-inside.me/gapps/gapps-mdpi-tiny-20100816-signed.zip"
+            "url": "http://download.clockworkmod.com/gapps/gapps-mdpi-tiny-20100816-signed.zip"
         },
         {
             "name": "Google Apps EPE54B",
@@ -486,7 +486,7 @@
                 "passion",
                 "sholes"
             ],
-            "url": "http://goo-inside.me/gapps/gapps-passion-EPE54B-signed.zip"
+            "url": "http://download.clockworkmod.com/gapps/gapps-passion-EPE54B-signed.zip"
         },
         {
             "name": "Google Apps ERE36B",
@@ -499,7 +499,7 @@
                 "magic",
                 "sapphire"
             ],
-            "url": "http://goo-inside.me/gapps/gapps-ds-ERE36B-signed.zip"
+            "url": "http://download.clockworkmod.com/gapps/gapps-ds-ERE36B-signed.zip"
         },
         {
             "name": "Google Apps DRC83",
@@ -512,7 +512,7 @@
                 "magic",
                 "sapphire"
             ],
-            "url": "http://goo-inside.me/gapps/DRC83_base_defanged.zip"
+            "url": "http://download.clockworkmod.com/gapps/DRC83_base_defanged.zip"
         }
     ]
 }
