@@ -4,6 +4,24 @@
     "donate": "http://denh.am/d",
     "roms": [
         {
+            "name": "20120422 ICS",
+            "summary": "Recommended for CM 9.0.x\nMarch 4, 2012 for Android 4.0.4",
+            "product": "ics",
+            "modversion": "GApps-20120422-ICS",
+            "incremental": "20120422",
+            "device": "all",
+            "url": "http://download2.clockworkmod.com/gapps/gapps-ics-20120422-signed.zip"
+        },
+        {
+            "name": "20120317 ICS",
+            "summary": "Recommended for CM 9.0.x\nMarch 17, 2012 for Android 4.0.3",
+            "product": "ics",
+            "modversion": "GApps-20120317-ICS",
+            "incremental": "20120317",
+            "device": "all",
+            "url": "http://download2.clockworkmod.com/gapps/gapps-ics-20120317-signed.zip"
+        },
+        {
             "name": "20120304 ICS",
             "summary": "Recommended for CM 9.0.x\nMarch 4, 2012 for Android 4.0.3",
             "product": "ics",
