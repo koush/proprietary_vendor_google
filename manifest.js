@@ -4,6 +4,24 @@
     "donate": "http://denh.am/d",
     "roms": [
         {
+            "name": "20120726 JB",
+            "summary": "Recommended for CM 10.0.x\nJuly 26, 2012 for Android 4.1.1",
+            "product": "jb",
+            "modversion": "GApps-20120726-JB",
+            "incremental": "20120726",
+            "device": "all",
+            "url": "http://download2.clockworkmod.com/gapps/gapps-jb-20120726-signed.zip"
+        },
+        {
+            "name": "20120719 JB",
+            "summary": "Recommended for CM 10.0.x\nJuly 19, 2012 for Android 4.1.1",
+            "product": "jb",
+            "modversion": "GApps-20120719-JB",
+            "incremental": "20120719",
+            "device": "all",
+            "url": "http://download2.clockworkmod.com/gapps/gapps-jb-20120719-signed.zip"
+        },
+        {
             "name": "20120429 ICS",
             "summary": "Recommended for CM 9.0.x\nApril 29, 2012 for Android 4.0.4",
             "product": "ics",
